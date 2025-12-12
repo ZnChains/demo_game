@@ -704,4 +704,4 @@ window.addEventListener('resize', () => {
 // 初始化游戏
 initGame();
 initEventListeners();
-//增加一行上传日志
+//删除增加的一行上传日志
