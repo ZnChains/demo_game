@@ -10,6 +10,7 @@ const resetBtn = document.getElementById('resetBtn');
 // 设置画布尺寸
 canvas.width = 600;
 canvas.height = 400;
+//增加一行日志查看提交情况
 
 // 游戏常量
 const GRID_SIZE = 20;
